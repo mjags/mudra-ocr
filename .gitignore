@@ -1,0 +1,15 @@
+/target
+
+.settings
+
+.project
+
+.idea
+
+*.iml
+
+*.docx
+
+/images
+
+.classpath
